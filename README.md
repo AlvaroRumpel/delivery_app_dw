@@ -1,4 +1,4 @@
-# Delivery Aapp
+# Delivery App
 
 Simple food delivery app, with few pages, login and user registration, developed in an immersion, focused on study and learning.
 
